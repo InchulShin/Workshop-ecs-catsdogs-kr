@@ -1,9 +1,5 @@
 # DEMOGO - CATS AND DOGS
 
-<!--
-[원본](http://ecs.catsdogs.kr.s3-website.ap-northeast-2.amazonaws.com/ko/)
--->
-
 ## 사랑과 행복을 찾아서
 
 ![](./images/catsdogs.svg)
@@ -40,3 +36,7 @@ Amazon ECS 관리에 활용할 수 있는 유용한 도구들을 실습합니다
 8. [지속적 통합 및 배포](./8.-cicd.md)
     1. [지속적 통합 및 배포2](./8.-cicd-2.md)
 9. [실습 리소스 정리](./9.cleanup.md)
+
+<!--
+[원본](http://ecs.catsdogs.kr.s3-website.ap-northeast-2.amazonaws.com/ko/)
+-->
