@@ -1,5 +1,4 @@
 # DEMOGO - CATS AND DOGS
-
 ## 사랑과 행복을 찾아서
 
 ![](./images/catsdogs.svg)
